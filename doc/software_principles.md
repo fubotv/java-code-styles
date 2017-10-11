@@ -47,12 +47,16 @@ For example, consider that the `Repository` needs to call the `API` to fetch som
 
 **S**ingle Responsibility Principle
  - [Overview](https://academy.realm.io/posts/donn-felker-solid-part-1/)
+
 **O**pen-Closed Principle
  - [Overview](https://academy.realm.io/posts/donn-felker-solid-part-2/)
+
 **L**iskov Substitution Principle
  - [Overview](https://academy.realm.io/posts/donn-felker-solid-part-3/)
+
 **I**nterface Segregation Principle
  - [Overview](https://academy.realm.io/posts/donn-felker-solid-part-4/)
+ 
 **D**ependency Inversion Principle
  - [Overview](https://academy.realm.io/posts/donn-felker-solid-part-5/)
 
