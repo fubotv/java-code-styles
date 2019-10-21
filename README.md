@@ -4,12 +4,12 @@ FuboTV Android Projects
 - [Player Library](https://github.com/fubotv/player_android)
 
 
-# Android Guidelines
+# Project Guidelines
 
-List of guidelines that we use at [fuboTV](https://www.fubo.tv/) when developing for the __Android__ platform. 
+List of guidelines/principles that we use at [fuboTV](https://www.fubo.tv/) when developing for the __Android__ platform. 
 
-* [Project and code style guidelines](project_and_code_guidelines.md)
-
+* [Project and code style guidelines](doc/project_and_code_guidelines.md)
+* [Software Principles](doc/software_principles.md)
 
 # Android/Java Code Style
 
